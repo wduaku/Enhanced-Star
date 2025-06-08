@@ -61,7 +61,7 @@
 	//Wonder
 	{ 
 		"name": "Golden Palace", 
-		"cost": 7777, 
+		"cost": 77, 
 		"isWonder": true, 
 		"uniques": [ "Only available <if [Enhanced Trading] is constructed in all [non-[Puppeted]] cities>",
 			"Destroyed when the city is captured", 
