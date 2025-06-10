@@ -51,8 +51,7 @@
 			"Will not be displayed in Civilopedia",
 			"May capture killed [All] units <with [95]% chance><hidden from users>", 
 			"[+550]% Strength <vs [All] units><hidden from users>"],
-		"column": 1,
-        	"row": 0
+		"unitTypes": ["Jedi"]
 	}
 
 ]
