@@ -33,22 +33,26 @@
 			"[+100] HP when healing", 
 			"[+3] Sight",
      			"[+5] Movement", 
+			"[+2] additional attacks per turn",
 			"Uncapturable",
-			"Will not be displayed in Civilopedia", 
-			"[-500]% Strength for enemy [Military] units in adjacent [All] tiles<hidden from users>"] 
+			"Will not be displayed in Civilopedia",
+			"[+250]% Strength <vs [All] units><hidden from users>",
+			"[-500]% Strength for enemy [All] units in adjacent [All] tiles<hidden from users>"] 
 	},
 
 	{ 
 		"name": "Battler PU",
-		"prerequisites": ["1st Ability","Usurper"],
+		"prerequisites": ["Usurper"],
 		"uniques": [ "Heals [+100] damage if it kills a unit <hidden from users>",  
 			"[+5] additional attacks per turn <hidden from users>", 
-			"[+25] Strength <hidden from users>",
-			"[+100]% Strength <hidden from users>",
+			"[+225]% Strength <hidden from users>",
 			"Uncapturable",
+			"Can move after attacking",
 			"Will not be displayed in Civilopedia",
 			"May capture killed [All] units <with [95]% chance><hidden from users>", 
-			"[+550]% Strength <vs [All] units><hidden from users>"] 
+			"[+550]% Strength <vs [All] units><hidden from users>"],
+		"column": 1,
+        	"row": 0
 	}
 
 ]
