@@ -36,7 +36,7 @@
 			"[+2] additional attacks per turn",
 			"Uncapturable",
 			"Will not be displayed in Civilopedia",
-			"[+250]% Strength <vs [All] units><hidden from users>"] 
+			"[+250]% Strength <vs [All] units> <hidden from users>"] 
 	},
 
 	{ 
@@ -48,9 +48,9 @@
 			"Uncapturable",
 			"Can move after attacking",
 			"Will not be displayed in Civilopedia",
-			"May capture killed [All] units <with [95]% chance><hidden from users>",
-			"[+250]% Strength <when defending><hidden from users>",
-			"[+550]% Strength <vs [All] units><hidden from users>"],
+			"May capture killed [All] units <with [95]% chance> <hidden from users>",
+			"[+250]% Strength <when defending> <hidden from users>",
+			"[+550]% Strength <vs [All] units> <hidden from users>"],
 		"unitTypes": ["Jedi"]
 	}
 
