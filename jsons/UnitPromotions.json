@@ -30,13 +30,12 @@
 	{ 
 		"name": "Usurper", 
 		"uniques": [ "All adjacent units heal [+50] HP when healing", 
-			"[+100] HP when healing", 
-			"[+3] Sight",
-     			"[+5] Movement", 
-			"[+2] additional attacks per turn",
+			"[+100] HP when healing<hidden from users>", 
+			"[+2] Sight",
+     			"[+2] Movement", 
+			"[+1] additional attacks per turn",
 			"Uncapturable",
-			"Will not be displayed in Civilopedia",
-			"[+250]% Strength <vs [All] units> <hidden from users>"] 
+			"[+250]% Strength <vs [All] units>"] 
 	},
 
 	{ 
@@ -45,12 +44,14 @@
 		"uniques": [ "Heals [+100] damage if it kills a unit <hidden from users>",  
 			"[+5] additional attacks per turn <hidden from users>", 
 			"[+225]% Strength <hidden from users>",
+			"[+2] Sight",
+			"[+2] Movement",
 			"Uncapturable",
 			"Can move after attacking",
 			"Will not be displayed in Civilopedia",
 			"May capture killed [All] units <with [95]% chance> <hidden from users>",
-			"[+250]% Strength <when defending> <hidden from users>",
-			"[+550]% Strength <vs [All] units> <hidden from users>"],
+			"[+250]% Strength <when defending><hidden from users>",
+			"[+550]% Strength <vs [All] units><hidden from users>"],
 		"unitTypes": ["Jedi"]
 	}
 
