@@ -53,7 +53,7 @@
 			"Enables [All] units to enter ocean tiles", 
 			"[+1] Movement <for [All] units>", 
 			"[+2] Sight <for [All] units>",  
-			"New [All] units start with [5000] XP [in all cities]", 
+			"New [All] units start with [500] XP [in all cities]", 
 			"No movement cost to pillage", 
 			"All newly-trained [Military] units [in all cities] receive the [1st Ability] promotion",
 			"Only available <for [Human player] Civilizations><hidden from users>"]
@@ -72,7 +72,6 @@
 			"Must have an owned [Trade Point] within [3] tiles",
 			"Provides [+2] [Resource] <hidden from users>",
 			"Can be purchased with [Gold] [in capital]",
-			"Will not be displayed in Civilopedia",
 			"All newly-trained [Military] units [in all cities] receive the [Usurper] promotion",
 			"Only available <for [Human player] Civilizations><hidden from users>"]} 
 
